@@ -24,3 +24,4 @@ strings.include?(cheese)
 end
 end
 
+def words_with_b(words)
